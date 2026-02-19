@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Stacy
 
 🎓 Computer Science Student  
 💻 Interested in Software Development, Databases & Systems Design  
@@ -37,5 +37,4 @@ These projects are actively under development as part of my learning journey.
 ---
 
 ## 📫 Contact Me
-- Email: your-email@example.com
-- LinkedIn: (add when ready)
+- Email: rachaelstacy00@gmail.com
