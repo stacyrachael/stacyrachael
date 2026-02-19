@@ -1,4 +1,4 @@
-![](https://cardivo-beta.vercel.app/api?name=Mbuvi%20Tech&description=Hi,%20Welcome%20To%20My%20Profile%20&image=https://i.ibb.co/Dff6tPsP/Img2url-bot.jpg&backgroundColor=%23718aa1&&fontColor=%23232329&iconColor=%23232329&instagram=_mbuvi&github=cheekydavy&linkedin=david-mbuvi-623405290&pattern=topography&colorPattern=%23eaeaea&opacity=0.2&site=https://sessions.mbuvitech.site)
+![](https://cardivo-beta.vercel.app/api?name=Stacy%20Tech&description=Hi,%20Welcome%20To%20My%20Profile%20&image=https://i.ibb.co/Dff6tPsP/Img2url-bot.jpg&backgroundColor=%23718aa1&&fontColor=%23232329&iconColor=%23232329&instagram=staycie_archy&github=stacyrachael&linkedin=david-mbuvi-623405290&pattern=topography&colorPattern=%23eaeaea&opacity=0.2&site=)
 
 
 # Hi, I'm Stacy
