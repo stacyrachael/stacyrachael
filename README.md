@@ -1,4 +1,4 @@
-![](https://cardivo-beta.vercel.app/api?name=Stacy%20&description=Hi,%20Welcome%20To%20My%20Profile%20&image=https://i.ibb.co/Dff6tPsP/Img2url-bot.jpg&backgroundColor=%23E6F0FF&&fontColor=%23232329&iconColor=%23232329&instagram=staycie_archy&github=stacyrachael&linkedin=david-mbuvi-623405290&pattern=topography&colorPattern=%23c7d7f2&opacity=0.12&site=)
+![](https://cardivo-beta.vercel.app/api?name=Stacy%20&description=Hi,%20Welcome%20To%20My%20Profile%20&image=https://i.ibb.co/Dff6tPsP/Img2url-bot.jpg&backgroundColor=%#1F3A5F&&fontColor=%23232329&iconColor=%23232329&instagram=staycie_archy&github=stacyrachael&linkedin=david-mbuvi-623405290&pattern=topography&colorPattern=%23c7d7f2&opacity=0.12&site=)
 
 
 
