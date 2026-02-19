@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm [Your Name] 👋
 
-<!--
-**stacyrachael/stacyrachael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Interested in Software Development, Databases & Systems Design  
+📍 Currently seeking Industrial Attachment (Internship)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Working On
+- Building a **Personal Developer Portfolio**
+- Designing a **Student Management System**
+- Implementing a **Relational Database System (SQL-based)**
+
+These projects are actively under development as part of my learning journey.
+
+---
+
+## 🛠️ Tech Stack
+- Languages: Python | Java | JavaScript | SQL
+- Tools: Git | MySQL | Linux | VS Code
+- Concepts: Data Structures, OOP, Database Design, Algorithms
+
+---
+
+## 📚 Current Learning Focus
+- Backend Development
+- Database Normalization & Optimization
+- System Design Fundamentals
+
+---
+
+## 📈 GitHub Goals (2026)
+- Build real-world academic systems
+- Write clean, documented code
+- Practice version control like a professional team environment
+
+---
+
+## 📫 Contact Me
+- Email: your-email@example.com
+- LinkedIn: (add when ready)
