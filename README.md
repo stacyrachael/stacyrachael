@@ -5,7 +5,7 @@
 # Hi, I'm Stacy
 
 🎓 Computer Science Student  
-💻 Interested in Software Development, Databases & Systems Design  
+💻 Interested in full stack development, specializing in secure and scalable web applications,software development, Databases & Systems Design  
 📍 Currently seeking Industrial Attachment (Internship)
 
 ---
